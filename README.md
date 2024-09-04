@@ -1,4 +1,4 @@
-# UCL_MSc_Project_2024
+# UCL_MSc_Project_2024  (**draft**)
 Repository for UCL MSc project - 
 
 This repository contains all the notebooks and helper files created for my MSc Project.
@@ -9,11 +9,9 @@ This repository contains all the notebooks and helper files created for my MSc P
 
 # Install
 
-To install the dependencies please install the requirements.txt on a new conda environment.
+To install the dependencies please install the environment.yaml file to a new conda environment or if you prefer pip please use the requirements.txt
 
-
-And for conda users:
-
+For conda users:
 ```bash
 conda create --name myenv
 conda activate myenv
@@ -22,8 +20,16 @@ conda install pip
 
 # Directory structure
 
-`/data`: Raw data can be placed here, file location will need to be changed in .....
+`/data`: Raw data can be placed here, file location will need to be changed in ..... within the sic_data_functions.py file
+
+`/images` Diagrams used in the thesis, citations are provided in the thesis
+
+`/inputs` contains research notebooks. 
+
+`/notebooks` contains research notebooks. 
+
+`/inputs` contains research notebooks. 
 
 `/src` contains `.py` dependencies/helper files. 
 
-`/notebooks` contains research notebooks. 
+
