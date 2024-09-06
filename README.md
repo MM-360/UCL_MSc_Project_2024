@@ -24,11 +24,11 @@ conda install pip
 
 `/images` Diagrams used in the thesis, citations are provided in the thesis
 
-`/inputs` contains research notebooks. 
+`/inputs` contains inputs for the models.
 
 `/notebooks` contains research notebooks. 
 
-`/inputs` contains research notebooks. 
+`/outputs` contains outputs from the models.
 
 `/src` contains `.py` dependencies/helper files. 
 
