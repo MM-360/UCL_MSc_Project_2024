@@ -22,7 +22,9 @@ conda create --name myenv
 conda activate myenv
 conda install pip
 ```
-
+```bash
+conda env update -f environment.yml --prune
+```
 # Directory structure
 
 `/data`: Raw data can be placed here, file location will need to be changed in *get_ice_data* function within the *sic_data_functions.py* file
