@@ -6,7 +6,7 @@ This repository contains all the notebooks and helper files created for my MSc P
 All code was written using Python version 3.12.3 using miniconda. 
 
 PC used for development:
-* Winodws 11 Pro
+* Windows 11 Pro
 * NVIDIA RTX 4090 FE
 * 64GB RAM
 * Intel Corei7 14700K
