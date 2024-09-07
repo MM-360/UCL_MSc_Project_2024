@@ -22,6 +22,7 @@ conda create --name myenv
 conda activate myenv
 conda install pip
 ```
+To load the enviornment file
 ```bash
 conda env update -f environment.yml --prune
 ```
