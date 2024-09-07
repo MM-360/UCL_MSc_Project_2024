@@ -25,7 +25,7 @@ conda install pip
 
 # Directory structure
 
-`/data`: Raw data can be placed here, file location will need to be changed in ..... within the sic_data_functions.py file
+`/data`: Raw data can be placed here, file location will need to be changed in *get_ice_data* function within the *sic_data_functions.py* file
 
 `/images` Diagrams used in the thesis, citations are provided in the thesis
 
