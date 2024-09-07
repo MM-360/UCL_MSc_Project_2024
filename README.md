@@ -3,9 +3,9 @@ Repository for UCL MSc project - *Forecasting Changes in Antarctic Sea Ice using
 
 This repository contains all the notebooks and helper files created for my MSc Project.
 
-# Install
-
 All code was written using Python version 3.12.3
+
+# Install
 
 To install the dependencies please install the environment.yaml file to a new conda environment or if you prefer pip please use the requirements.txt
 
