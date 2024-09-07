@@ -3,7 +3,14 @@ Repository for UCL MSc project - *Forecasting Changes in Antarctic Sea Ice using
 
 This repository contains all the notebooks and helper files created for my MSc Project.
 
-All code was written using Python version 3.12.3 using miniconda.
+All code was written using Python version 3.12.3 using miniconda. 
+
+PC used for development:
+* Winodws 11 Pro
+* NVIDIA RTX 4090 FE
+* 64GB RAM
+* Intel Corei7 14700K
+
 
 # Install
 
