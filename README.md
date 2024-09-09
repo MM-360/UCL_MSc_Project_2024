@@ -1,4 +1,4 @@
-# UCL_MSc_Project_2024  (**draft**)
+# UCL_MSc_Project_2024, final 2024-09-09
 Repository for UCL MSc project - *Forecasting Changes in Antarctic Sea Ice using Latent Variable Techniques*
 
 This repository contains all the notebooks and helper files created for my MSc Project.
